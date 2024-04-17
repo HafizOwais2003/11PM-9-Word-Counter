@@ -24,6 +24,3 @@ console.log(words)
 
 // Print word count of the sentence to the console
 console.log(`Your sentence word count is ${words.length}`);
-
-
-// const array = ['a','b','c','d','e','f','g','h','i','j','k','l','m','o','p','q','r','s','t','u','v','w','x','y','z']
